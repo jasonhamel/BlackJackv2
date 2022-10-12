@@ -1,0 +1,8 @@
+/*
+A card is dealt to the player, then the dealer. The user gets a second card 
+face up, the dealer gets a second card face down. Each hand is totalled and
+the player is given the option to draw another card for their hand. The player
+is given the option to draw until they either bust or stay. If the player stays
+the dealer reveals their second card. If the dealer has a lower total than the
+player, they hit until they win or bust.
+*/
